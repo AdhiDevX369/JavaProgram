@@ -34,4 +34,5 @@ This folder contains the following programs:
 <li>LinearSearch Program</li>
 <li>DownloadImage Program</li>
 <ul>
+
 All programs are designed to be <b>beginner-friendly</b> and suitable for those new to Java programming.
