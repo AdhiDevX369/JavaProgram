@@ -1,4 +1,4 @@
-package trynewmethod;
+package Arrays;
 
 import java.io.File;
 import java.io.FileOutputStream;
