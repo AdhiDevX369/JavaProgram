@@ -1,5 +1,3 @@
-# JavaPrograme
-
 <h1>Java Program</h1>
 This repository contains beginner-friendly Java programs organized into four main folders:
 
